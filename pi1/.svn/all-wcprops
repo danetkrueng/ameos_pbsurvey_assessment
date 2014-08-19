@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/typo3/!svn/ver/6/ameos_pbsurvey_assessment/trunk/pi1
+END
+flexform_ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/typo3/!svn/ver/5/ameos_pbsurvey_assessment/trunk/pi1/flexform_ds.xml
+END
+class.tx_ameospbsurveyassessment_pi1.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/typo3/!svn/ver/9/ameos_pbsurvey_assessment/trunk/pi1/class.tx_ameospbsurveyassessment_pi1.php
+END
+locallang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/typo3/!svn/ver/5/ameos_pbsurvey_assessment/trunk/pi1/locallang.xml
+END
